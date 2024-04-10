@@ -1,5 +1,5 @@
 # Peer to peer real-time collaboration demo webapp
-![Peer to peer banner](/public/collaborate.png)
+![Peer to peer banner](/public/collaborate.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
 
