@@ -33,7 +33,7 @@ Changes to the editor will be reflected in real-time across all peers.
 
 To run another peer, you can either:
 1. Open a new tab in your browser at [http://localhost:3000](http://localhost:3000)  
-2. Or on another computer's browser in the same network, open 'http://<insert local ipv4 address here>:3000'  
+2. Or on another computer's browser in the same network, but replace localhost with its local ipv4 address 
   
 Then enter your desired username and room name you want to join your peer to.  
 Collaborate away!  
