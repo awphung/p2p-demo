@@ -16,10 +16,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## How to run:
 - Download this repository to your machine
 - Navigate to the local repository
-- Run 'yarn' to install the dependencies for the React webapp
-    - You can check if 'yarn' is installed by running 'yarn --version'
-    - If it isn't installed run 'npm install --global yarn'
-- Run 'yarn start' to run the app in development mode
+- Run `yarn` to install the dependencies for the React webapp
+    - You can check if `yarn` is installed by running `yarn --version`
+    - If it isn't installed run `npm install --global yarn`
+- Run `yarn start` to run the app in development mode
 
 ---
 
